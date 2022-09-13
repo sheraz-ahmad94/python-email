@@ -1,7 +1,7 @@
 # Send Email Using Python
 Send an email using python and your gmail account.
 
-###TO RUN THE PROGRAM
+### TO RUN THE PROGRAM
 
 You will need to generate an app password on your gmail account to allow the program to access your gmail account remotely.
 
