@@ -9,3 +9,6 @@ Open your gmail account, click on Manage Your Google Account
 Next, Click Security and Select App Password.
 
 Create a Custom App, name it anything and paste it in the program.
+
+
+###### (*Created using idea from a video on freecodecamp's YouTube channel*)
